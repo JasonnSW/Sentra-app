@@ -1,0 +1,250 @@
+[
+  {
+    "name": { "common": "Indonesia" },
+    "cca2": "ID",
+    "cca3": "IDN",
+    "idd": { "root": "+62", "suffixes": [] },
+    "flags": { "png": "https://flagcdn.com/w320/id.png" },
+    "region": "Asia"
+  },
+  {
+    "name": { "common": "United States" },
+    "cca2": "US",
+    "cca3": "USA",
+    "idd": { "root": "+1", "suffixes": [] },
+    "flags": { "png": "https://flagcdn.com/w320/us.png" },
+    "region": "Americas"
+  },
+  {
+    "name": { "common": "United Kingdom" },
+    "cca2": "GB",
+    "cca3": "GBR",
+    "idd": { "root": "+44", "suffixes": [] },
+    "flags": { "png": "https://flagcdn.com/w320/gb.png" },
+    "region": "Europe"
+  },
+  {
+    "name": { "common": "Japan" },
+    "cca2": "JP",
+    "cca3": "JPN",
+    "idd": { "root": "+81", "suffixes": [] },
+    "flags": { "png": "https://flagcdn.com/w320/jp.png" },
+    "region": "Asia"
+  },
+  {
+    "name": { "common": "Australia" },
+    "cca2": "AU",
+    "cca3": "AUS",
+    "idd": { "root": "+61", "suffixes": [] },
+    "flags": { "png": "https://flagcdn.com/w320/au.png" },
+    "region": "Oceania"
+  },
+  {
+    "name": { "common": "Germany" },
+    "cca2": "DE",
+    "cca3": "DEU",
+    "idd": { "root": "+49", "suffixes": [] },
+    "flags": { "png": "https://flagcdn.com/w320/de.png" },
+    "region": "Europe"
+  },
+  {
+    "name": { "common": "France" },
+    "cca2": "FR",
+    "cca3": "FRA",
+    "idd": { "root": "+33", "suffixes": [] },
+    "flags": { "png": "https://flagcdn.com/w320/fr.png" },
+    "region": "Europe"
+  },
+  {
+    "name": { "common": "Canada" },
+    "cca2": "CA",
+    "cca3": "CAN",
+    "idd": { "root": "+1", "suffixes": [] },
+    "flags": { "png": "https://flagcdn.com/w320/ca.png" },
+    "region": "Americas"
+  },
+  {
+    "name": { "common": "Brazil" },
+    "cca2": "BR",
+    "cca3": "BRA",
+    "idd": { "root": "+55", "suffixes": [] },
+    "flags": { "png": "https://flagcdn.com/w320/br.png" },
+    "region": "Americas"
+  },
+  {
+    "name": { "common": "China" },
+    "cca2": "CN",
+    "cca3": "CHN",
+    "idd": { "root": "+86", "suffixes": [] },
+    "flags": { "png": "https://flagcdn.com/w320/cn.png" },
+    "region": "Asia"
+  },
+  {
+    "name": { "common": "South Korea" },
+    "cca2": "KR",
+    "cca3": "KOR",
+    "idd": { "root": "+82", "suffixes": [] },
+    "flags": { "png": "https://flagcdn.com/w320/kr.png" },
+    "region": "Asia"
+  },
+  {
+    "name": { "common": "Russia" },
+    "cca2": "RU",
+    "cca3": "RUS",
+    "idd": { "root": "+7", "suffixes": [] },
+    "flags": { "png": "https://flagcdn.com/w320/ru.png" },
+    "region": "Europe"
+  },
+  {
+    "name": { "common": "Italy" },
+    "cca2": "IT",
+    "cca3": "ITA",
+    "idd": { "root": "+39", "suffixes": [] },
+    "flags": { "png": "https://flagcdn.com/w320/it.png" },
+    "region": "Europe"
+  },
+  {
+    "name": { "common": "Spain" },
+    "cca2": "ES",
+    "cca3": "ESP",
+    "idd": { "root": "+34", "suffixes": [] },
+    "flags": { "png": "https://flagcdn.com/w320/es.png" },
+    "region": "Europe"
+  },
+  {
+    "name": { "common": "India" },
+    "cca2": "IN",
+    "cca3": "IND",
+    "idd": { "root": "+91", "suffixes": [] },
+    "flags": { "png": "https://flagcdn.com/w320/in.png" },
+    "region": "Asia"
+  },
+  {
+    "name": { "common": "Mexico" },
+    "cca2": "MX",
+    "cca3": "MEX",
+    "idd": { "root": "+52", "suffixes": [] },
+    "flags": { "png": "https://flagcdn.com/w320/mx.png" },
+    "region": "Americas"
+  },
+  {
+    "name": { "common": "Netherlands" },
+    "cca2": "NL",
+    "cca3": "NLD",
+    "idd": { "root": "+31", "suffixes": [] },
+    "flags": { "png": "https://flagcdn.com/w320/nl.png" },
+    "region": "Europe"
+  },
+  {
+    "name": { "common": "Switzerland" },
+    "cca2": "CH",
+    "cca3": "CHE",
+    "idd": { "root": "+41", "suffixes": [] },
+    "flags": { "png": "https://flagcdn.com/w320/ch.png" },
+    "region": "Europe"
+  },
+  {
+    "name": { "common": "Sweden" },
+    "cca2": "SE",
+    "cca3": "SWE",
+    "idd": { "root": "+46", "suffixes": [] },
+    "flags": { "png": "https://flagcdn.com/w320/se.png" },
+    "region": "Europe"
+  },
+  {
+    "name": { "common": "Norway" },
+    "cca2": "NO",
+    "cca3": "NOR",
+    "idd": { "root": "+47", "suffixes": [] },
+    "flags": { "png": "https://flagcdn.com/w320/no.png" },
+    "region": "Europe"
+  },
+  {
+    "name": { "common": "Argentina" },
+    "cca2": "AR",
+    "cca3": "ARG",
+    "idd": { "root": "+54", "suffixes": [] },
+    "flags": { "png": "https://flagcdn.com/w320/ar.png" },
+    "region": "Americas"
+  },
+  {
+    "name": { "common": "South Africa" },
+    "cca2": "ZA",
+    "cca3": "ZAF",
+    "idd": { "root": "+27", "suffixes": [] },
+    "flags": { "png": "https://flagcdn.com/w320/za.png" },
+    "region": "Africa"
+  },
+  {
+    "name": { "common": "Turkey" },
+    "cca2": "TR",
+    "cca3": "TUR",
+    "idd": { "root": "+90", "suffixes": [] },
+    "flags": { "png": "https://flagcdn.com/w320/tr.png" },
+    "region": "Asia"
+  },
+  {
+    "name": { "common": "Saudi Arabia" },
+    "cca2": "SA",
+    "cca3": "SAU",
+    "idd": { "root": "+966", "suffixes": [] },
+    "flags": { "png": "https://flagcdn.com/w320/sa.png" },
+    "region": "Asia"
+  },
+  {
+    "name": { "common": "New Zealand" },
+    "cca2": "NZ",
+    "cca3": "NZL",
+    "idd": { "root": "+64", "suffixes": [] },
+    "flags": { "png": "https://flagcdn.com/w320/nz.png" },
+    "region": "Oceania"
+  },
+  {
+    "name": { "common": "Thailand" },
+    "cca2": "TH",
+    "cca3": "THA",
+    "idd": { "root": "+66", "suffixes": [] },
+    "flags": { "png": "https://flagcdn.com/w320/th.png" },
+    "region": "Asia"
+  },
+  {
+    "name": { "common": "Philippines" },
+    "cca2": "PH",
+    "cca3": "PHL",
+    "idd": { "root": "+63", "suffixes": [] },
+    "flags": { "png": "https://flagcdn.com/w320/ph.png" },
+    "region": "Asia"
+  },
+  {
+    "name": { "common": "Vietnam" },
+    "cca2": "VN",
+    "cca3": "VNM",
+    "idd": { "root": "+84", "suffixes": [] },
+    "flags": { "png": "https://flagcdn.com/w320/vn.png" },
+    "region": "Asia"
+  },
+  {
+    "name": { "common": "Egypt" },
+    "cca2": "EG",
+    "cca3": "EGY",
+    "idd": { "root": "+20", "suffixes": [] },
+    "flags": { "png": "https://flagcdn.com/w320/eg.png" },
+    "region": "Africa"
+  },
+  {
+    "name": { "common": "Pakistan" },
+    "cca2": "PK",
+    "cca3": "PAK",
+    "idd": { "root": "+92", "suffixes": [] },
+    "flags": { "png": "https://flagcdn.com/w320/pk.png" },
+    "region": "Asia"
+  },
+  {
+    "name": { "common": "Malaysia" },
+    "cca2": "MY",
+    "cca3": "MYS",
+    "idd": { "root": "+60", "suffixes": [] },
+    "flags": { "png": "https://flagcdn.com/w320/my.png" },
+    "region": "Asia"
+  }
+]
