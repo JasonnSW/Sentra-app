@@ -4,13 +4,13 @@ import { router } from "expo-router";
 import { CreditCard, Lightbulb } from "lucide-react-native";
 import React, { useCallback, useEffect, useState } from "react";
 import {
-    ActivityIndicator,
-    Image,
-    SafeAreaView,
-    ScrollView,
-    Text,
-    TouchableOpacity,
-    View,
+  ActivityIndicator,
+  Image,
+  SafeAreaView,
+  ScrollView,
+  Text,
+  TouchableOpacity,
+  View,
 } from "react-native";
 
 type Props = {};
@@ -30,6 +30,9 @@ const VerificationKTP = (props: Props) => {
       const rawTanggalLahir = parsed.queryParams?.tanggal_lahir;
       const rawTempatLahir = parsed.queryParams?.tempat_lahir;
       const rawFotoKTP = parsed.queryParams?.foto_ktp;
+
+      console.log("Deep link parsed:", parsed);
+      console.log("Navigating to confirm-ktp...");
 
       if (status === "verified") {
         const nama = Array.isArray(rawNama) ? rawNama[0] : rawNama || "";
@@ -76,10 +79,10 @@ const VerificationKTP = (props: Props) => {
   const startKTPScan = () => {
     setIsLoading(true);
 
-    const returnApp = Linking.createURL("status", {
+    const returnApp = Linking.createURL("/(e-kyc)/confirm-ktp", {
       queryParams: { status: "verified" },
     });
-    const webUrl = `https://sentra-web-pi.vercel.app/ktp?returnApp=${encodeURIComponent(
+    const webUrl = `https://sentra-web-e8ma.vercel.app/ktp?returnApp=${encodeURIComponent(
       returnApp
     )}`;
     Linking.openURL(webUrl);

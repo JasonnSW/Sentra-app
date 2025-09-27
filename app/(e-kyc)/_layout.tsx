@@ -14,10 +14,10 @@ export default function EKYCLayout() {
         name="verification-ktp"
         options={{ headerShown: true, title: "Verifikasi e-KTP" }}
       />
-      <Stack.Screen
+      {/* <Stack.Screen
         name="camera-ktp"
         options={{ headerShown: true, title: "" }}
-      />
+      /> */}
       <Stack.Screen
         name="confirm-ktp"
         options={{ headerShown: true, title: "Verifikasi e-KTP" }}
@@ -26,10 +26,10 @@ export default function EKYCLayout() {
         name="verification-face"
         options={{ headerShown: true, title: "Verifikasi wajah" }}
       />
-      <Stack.Screen
+      {/* <Stack.Screen
         name="camera-face"
         options={{ headerShown: true, title: "" }}
-      />
+      /> */}
     </Stack>
   );
 }

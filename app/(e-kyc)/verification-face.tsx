@@ -45,7 +45,7 @@ const VerificationFace = (props: Props) => {
     const returnApp = Linking.createURL("status", {
       queryParams: { status: "verified" },
     });
-    const webUrl = `https://sentra-web-pi.vercel.app/face?returnApp=${encodeURIComponent(
+    const webUrl = `https://sentra-web-e8ma.vercel.app/face?returnApp=${encodeURIComponent(
       returnApp
     )}`;
     Linking.openURL(webUrl);

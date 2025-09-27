@@ -48,6 +48,7 @@ export default function RootLayout() {
             <Stack.Screen name="index" options={{ headerShown: false }} />
             <Stack.Screen name="(main)" />
             <Stack.Screen name="(auth)" />
+            <Stack.Screen name="(e-kyc)" />
             <Stack.Screen name="+not-found" />
           </Stack>
           <StatusBar style="auto" />

@@ -2,13 +2,13 @@ import { useUser } from "@/context/user-context";
 import { router } from "expo-router";
 import React from "react";
 import {
-    Image,
-    SafeAreaView,
-    ScrollView,
-    Text,
-    TextInput,
-    TouchableOpacity,
-    View,
+  Image,
+  SafeAreaView,
+  ScrollView,
+  Text,
+  TextInput,
+  TouchableOpacity,
+  View,
 } from "react-native";
 
 const ConfirmKTP = () => {
@@ -79,9 +79,7 @@ const ConfirmKTP = () => {
 
             <TouchableOpacity
               onPress={() => {
-                router.push({
-                  pathname: "/(e-kyc)/verification-face",
-                });
+                router.push("/verification-face");
               }}
               className="bg-primary-400 py-4 rounded-2xl mt-8"
             >
